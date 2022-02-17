@@ -1,4 +1,4 @@
-# RetiLogiche-Project
+# Reti Logiche - Project
 Reti Logiche - Final examination - From the course held at PoliMi during the year 2019/2020  
 Final score: 30 cum laude
 
